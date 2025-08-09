@@ -1,0 +1,13 @@
+Django>=4.2
+djangorestframework
+gunicorn
+psycopg2-binary
+pdfplumber
+python-magic
+nltk
+scikit-learn
+numpy
+pandas
+dj-database-url
+django-cors-headers
+whitenoise
